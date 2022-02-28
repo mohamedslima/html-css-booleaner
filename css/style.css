@@ -1,13 +1,20 @@
 
-#logo-booleaner{
-    width: 20%;;
+#logo-booleaner {
+    padding-right: 100%;
+    background-image: url("../img/pattern.png");
+    background-repeat: repeat;
+    width: 20%;
+    height: 140px;
+    background-color: aqua;
 }
 
 #intestazione{
+    margin: 0;
     font-size: 22pt;
 }
 
 #sottointestazione{
+    margin-bottom: 3%;
     color: gray;
     font-size: 12pt;
 }
@@ -19,3 +26,8 @@
 .crediti-foto{
     font-size: 8pt;
 }
+
+#text-evidenziato-1{
+    display: inline-block;
+    background-color: yellow;
+} 
