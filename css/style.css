@@ -27,7 +27,7 @@
     font-size: 8pt;
 }
 
-#text-evidenziato-1{
+.text-evidenziato{
     display: inline-block;
     background-color: yellow;
 } 
@@ -51,4 +51,32 @@ thead{
 
 .with-background{
     background-color: lightcyan;
+}
+
+#testo-lorem-2{
+    margin-top: 2%;
+}
+
+dd{
+    margin-top: 2%;
+    margin-left: 0;
+    color: grey;
+}
+
+#image-back-end-1{
+    display: block;
+    background-repeat: no-repeat;
+    padding-bottom: 300px;
+    padding-right: 200px;
+    color: white;
+    background-image: url(/Users/mohamedslima/Boolean/repo-html-css-booleaner/img/monitor.jpg);
+}
+
+#image-back-end-2{
+    display: block;
+    background-repeat: no-repeat;
+    padding-bottom: 300px;
+    padding-right: 200px;
+    color: white;
+    background-image: url(/Users/mohamedslima/Boolean/repo-html-css-booleaner/img/graph.jpg);
 }
