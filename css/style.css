@@ -31,3 +31,24 @@
     display: inline-block;
     background-color: yellow;
 } 
+
+.colonna-1{
+    padding: 15px;
+}
+
+.colonna-2{
+    padding: 15px;
+}
+
+.colonna-3{
+    padding-right: 20px;
+}
+
+thead{
+    color: white;
+    background-color: skyblue;
+}
+
+.with-background{
+    background-color: lightcyan;
+}
